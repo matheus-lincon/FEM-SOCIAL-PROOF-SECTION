@@ -24,6 +24,8 @@
   --spacing-xm: 1.75rem;
   --spacing-l: 2rem;
   --spacing-xl: 3rem;
+  --spacing-xxl: 5rem;
+  --spacing-xxxl: 6.25rem;
 }
 
 @font-face {
