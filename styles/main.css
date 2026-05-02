@@ -14,7 +14,7 @@
   --fw-m: 500;
   --fw-b: 700;
 
-  --fs-l: 2.25rem;
+  --fs-l: clamp(2.25rem, 1.9643rem + 1.4286vw, 3.25rem);
   --fs-m: 1.125rem;
   --fs-sm: 1rem;
 
