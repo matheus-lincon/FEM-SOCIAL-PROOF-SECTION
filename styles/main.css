@@ -20,8 +20,9 @@
 
   /* spacing */
   --spacing-sm: 1rem;
-  --spacing-m: 1.5rem;
-  --spacing-xm: 1.75rem;
+  --spacing-m: 1.25rem;
+  --spacing-xm: 1.5rem;
+  --spacing-xxm: 1.75rem;
   --spacing-l: 2rem;
   --spacing-xl: 3rem;
   --spacing-xxl: 5rem;
