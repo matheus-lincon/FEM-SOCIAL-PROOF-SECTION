@@ -35,6 +35,7 @@
 .social__text {
   font-size: var(--fs-m);
   font-weight: var(--fw-m);
+  line-height: 1.5;
   color: var(--neutral-1);
 }
 
